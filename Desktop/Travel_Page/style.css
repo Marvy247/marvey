@@ -153,6 +153,8 @@ main {
   height: 200px;
   border: 1px #232261 none;
   border-radius: 15px;
+  box-shadow: 1px 1px #02014d;
+  background: center center/cover;
 }
 
 .highlights .highlight-images p {
